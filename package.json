@@ -14,7 +14,7 @@
     "url": "https://github.com/phuanh004/my-bot.git"
   },
   "dependencies": {
-    "express": "~4.15.2",
-    "morgan": "latest"
+    "morgan": "^1.8.1",
+    "express": "latest"
   }
 }
